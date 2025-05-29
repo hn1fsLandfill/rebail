@@ -10,3 +10,6 @@
 [submodule "packages/app/Launcher3"]
 	path = packages/app/Launcher3
 	url = https://github.com/hn1fsLandfill/rebail_packages_app_Launcher3
+[submodule "packages/app/Launcher2"]
+	path = packages/app/Launcher2
+	url = https://github.com/hn1fsLandfill/rebail_packages_app_Launcher2
