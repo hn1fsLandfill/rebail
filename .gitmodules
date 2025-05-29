@@ -7,3 +7,6 @@
 [submodule "prebuilts"]
 	path = prebuilts
 	url = https://github.com/hn1fsLandfill/rebail_prebuilts
+[submodule "packages/app/Launcher3"]
+	path = packages/app/Launcher3
+	url = https://github.com/hn1fsLandfill/rebail_packages_app_Launcher3
