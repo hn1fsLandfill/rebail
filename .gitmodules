@@ -1,0 +1,9 @@
+[submodule "packages/app/Gallery"]
+	path = packages/app/Gallery
+	url = https://github.com/hn1fsLandfill/rebail_packages_app_Gallery
+[submodule "build"]
+	path = build
+	url = https://github.com/hn1fsLandfill/rebail-build
+[submodule "prebuilts"]
+	path = prebuilts
+	url = https://github.com/hn1fsLandfill/rebail_prebuilts
